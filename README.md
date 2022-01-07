@@ -13,8 +13,8 @@ The game was originally released in 1978. Designed by Tomohiro Nishikado, develo
 Improve the user experience on classic or new games, it is one of the goal of AR, as an interactive technology with highly effective in creating impressive visuals and reciprocal communication with the environment.
 
 <img src="./AlienShooter-capture.jpg" width="auto" height="400">
-
 <br>
+
 #### Follow me 💬
 
 | Authors | GitHub | Twitter | Linkedin |
